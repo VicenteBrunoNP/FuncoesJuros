@@ -3,15 +3,14 @@ API's para cálculo de juros
 
 # SOLUÇÃO (Juros)
 
-* * Projeto: juros.api *
+* Projeto: juros.api *
 API para realização do cálculo de juros composto, baseado no resultado adquirido da api (juros.api).
+Nota:* Apontar o endpoint no arquivo *juros.api > Services > ServicesTaxaJuros*
 
-*Nota:* Apontar o endpoint no arquivo *juros.api > Services > ServicesTaxaJuros*
-
-* * Projeto: juros.api.test *
+* Projeto: juros.api.test *
 *Nota:* projeto de teste
 
-* * Projeto: taxas.api *
+* Projeto: taxas.api *
 API para busca da taxa de juros fixa
 
 
